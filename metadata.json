@@ -1,0 +1,5 @@
+{
+  "name": "Aula InteligenteCol - Generador CARE",
+  "description": "Herramienta educativa para generar prompts estructurados usando el framework CARE (Contexto, Acción, Rol, Estilo), diseñada para docentes.",
+  "requestFramePermissions": []
+}
